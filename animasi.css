@@ -116,7 +116,7 @@
   animation-name: rollIn;
 }
 
-.tema-wrapper h2 {
+.heading h2 {
   animation-name: rubberBand;
   animation-duration: 20s;
 }
