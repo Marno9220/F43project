@@ -78,7 +78,7 @@
   transform-origin: center bottom;
 }
 
-.option {
+.profil-wrapper h2 {
   animation-name: rollIn;
   animation-duration: 7s;
 }
