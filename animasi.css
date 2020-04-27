@@ -2,7 +2,7 @@
 
 .top-wrapper h1 {
   animation-name: bounce;
-  animation-duration: 5s;
+  animation-duration: 15s;
 }
 
 @-webkit-keyframes bounce {
@@ -116,7 +116,7 @@
   animation-name: rollIn;
 }
 
-.bottom p {
+.tema-icon {
   animation-name: rubberBand;
   animation-duration: 20s;
 }
